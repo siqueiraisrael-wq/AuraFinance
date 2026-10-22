@@ -1,0 +1,8 @@
+{
+  "name": "AuraFinance - Gestão Financeira Inteligente & Open Finance",
+  "description": "Aplicativo de alta segurança para gerenciamento financeiro pessoal, integração com contas bancárias via Open Finance, relatórios automáticos de gastos mensais e sincronização em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
